@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Update Packages and Install wget
 apt update && apt install wget -y
 
